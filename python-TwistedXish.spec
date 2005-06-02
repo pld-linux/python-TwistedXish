@@ -19,6 +19,11 @@ Twisted X-ish is a library for processing XML with Twisted and Python,
 with support for a Pythonic DOM and an XPath-like toolkit. It exists
 largely to facilitate the Jabber support in Twisted Words.
 
+%description -l pl
+Twisted X-ish to biblioteka do przetwarzania XML-a przy u¿yciu Twisted
+i Pythona z obs³ug± Pythonic DOM i toolkitem w stylu XPath. Istnieje
+przede wszystkim dla ³atwiejszej obs³ugi Jabbera w Twisted Words.
+
 %prep
 %setup -q -n %{module}-%{version}
 
