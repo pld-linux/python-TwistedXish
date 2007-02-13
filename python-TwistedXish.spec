@@ -1,7 +1,7 @@
 %define 	module	TwistedXish
 
 Summary:	XML library for Twisted
-Summary(pl.UTF-8):   Biblioteka XML dla Twisted
+Summary(pl.UTF-8):	Biblioteka XML dla Twisted
 Name:		python-%{module}
 Version:	0.1.0
 Release:	0.1
